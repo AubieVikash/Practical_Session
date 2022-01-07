@@ -1,8 +1,6 @@
 Welcome to Gihub practical session
-<<<<<<< HEAD
 another commit for cherry picking
-=======
 
 let's do our first change here!!!
 
->>>>>>> 696af6cd6690136f4e22b3a0fd4f58598bb728fb
+
